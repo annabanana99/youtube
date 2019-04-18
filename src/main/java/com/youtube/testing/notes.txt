@@ -1,0 +1,5 @@
+To correct
+- Base and VideoPage constructor
+- VideoPage - loadComments and find method
+- VideoPageTest - remove Before and After
+- Both - remove Thread.sleep
